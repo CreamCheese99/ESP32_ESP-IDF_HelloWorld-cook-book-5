@@ -948,3 +948,20 @@
 46737	47007	7526544468822178	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/.bin_timestamp	bd29d6c418b9d906
 47007	47097	0	esp-idf/esptool_py/CMakeFiles/app_check_size	ca926a6fed739e4e
 47007	47097	0	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/esp-idf/esptool_py/CMakeFiles/app_check_size	ca926a6fed739e4e
+111	296	7526544268573075	bootloader-prefix/src/bootloader-stamp/bootloader-build	9d777a79c4462b6c
+111	296	7526544268573075	bootloader/bootloader.elf	9d777a79c4462b6c
+111	296	7526544268573075	bootloader/bootloader.bin	9d777a79c4462b6c
+111	296	7526544268573075	bootloader/bootloader.map	9d777a79c4462b6c
+111	296	7526544268573075	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9d777a79c4462b6c
+111	296	7526544268573075	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/bootloader/bootloader.elf	9d777a79c4462b6c
+111	296	7526544268573075	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/bootloader/bootloader.bin	9d777a79c4462b6c
+111	296	7526544268573075	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/bootloader/bootloader.map	9d777a79c4462b6c
+120	344	7526545772277121	esp-idf/main/CMakeFiles/__idf_main.dir/hello_world_main.c.obj	6f56ca364d63d6cb
+344	443	7526545773260897	esp-idf/main/libmain.a	b929bcea1953d5cb
+443	8082	7526545849388044	esp-idf/esp_system/ld/sections.ld	13ca709baa4cfaaf
+443	8082	7526545849388044	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/esp-idf/esp_system/ld/sections.ld	13ca709baa4cfaaf
+8082	8783	7526545856472378	hello_world.elf	1d55701fc4b37ece
+8829	9097	7526545859832512	.bin_timestamp	bd29d6c418b9d906
+8829	9097	7526545859832512	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/.bin_timestamp	bd29d6c418b9d906
+9097	9191	0	esp-idf/esptool_py/CMakeFiles/app_check_size	ca926a6fed739e4e
+9097	9191	0	D:/Specail Topic - Cook book/ESP32_ESP-IDF_HelloWorld-cook-book-5/hello_world/build/esp-idf/esptool_py/CMakeFiles/app_check_size	ca926a6fed739e4e
