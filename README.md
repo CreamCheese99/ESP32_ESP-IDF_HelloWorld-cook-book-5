@@ -18,8 +18,15 @@
 -เเก้โค้ดตามข้อที่2
 -รัน
   
+### 4.แสดงผลการทำ
+ผลการทดลอง 
+![image](https://github.com/user-attachments/assets/0f61d821-f019-446d-b799-b84299dd1f39)
 
-## ผลการทดสอบ
-![image](https://github.com/user-attachments/assets/6f997cdd-bdad-4c92-8ad3-80cb8f1047e0)
+
+
+### 5.สรุปผล
+เมื่อนับครบ 5-0 จะทำการรันใหม่ทุกครั้ง
+
+
 
  
